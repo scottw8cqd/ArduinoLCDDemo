@@ -10,7 +10,6 @@ void setup() {
 lcd.begin(16,2); 
 lcd.clear();
 lcd.print("Hello ITCS-2590!");
-lcd.setCursor(1,1);
 
 }
 
